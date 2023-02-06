@@ -7,8 +7,8 @@ package di.atos.exercicexpweek6day4.exercice1;
 
 /**
  *
- * @author KONATE-MK
- *@date 29/01/2023
+ * @author Adonis 
+ 
  */
 public class Student {
     private String name;
@@ -25,8 +25,3 @@ public class Student {
 }
 
 
-/**
- *
- * @author KONATE-MK
- *@date 29/01/2023
- */

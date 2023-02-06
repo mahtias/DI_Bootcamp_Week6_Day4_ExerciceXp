@@ -7,8 +7,8 @@ package di.atos.exercicexpweek6day4.exercice2;
 
 /**
  *
- * @author KONATE-MK
- *@date 29/01/2023
+ * @author Kadjo mathias 
+
  */
 
 public class Triangle {
@@ -32,8 +32,3 @@ public class Triangle {
 }
 
 
-/**
- *
- * @author KONATE-MK
- *@date 29/01/2023
- */

@@ -7,8 +7,8 @@ package di.atos.exercicexpweek6day4.exercice4;
 
 /**
  *
- * @author KONATE-MK
- *@date 29/01/2023
+ * @author Adonis 
+ 
  */
 
 public class Area {
@@ -28,8 +28,4 @@ public class Area {
 }
 
 
-/**
- *
- * @author KONATE-MK
- *@date 29/01/2023
- */
+

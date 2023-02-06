@@ -8,8 +8,8 @@ import di.atos.exercicexpweek6day4.exercice1.Student;
 
 /**
  *
- * @author KONATE-MK
- *@date 29/01/2023
+ * @author Adonis 
+
  */
 
 public class ExerciceXpWeek6Day4 {
@@ -24,8 +24,4 @@ public class ExerciceXpWeek6Day4 {
 }
 
 
-/**
- *
- * @author KONATE-MK
- *@date 29/01/2023
- */
+
